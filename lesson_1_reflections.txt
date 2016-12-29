@@ -16,7 +16,7 @@ Pros of commit:
 - Allows you to package changes in a way where they can be used to facilitate a code review or map to a ticket
 - You only want to commit code that has been tested
 
-Cons
+Consw
 - You could lose changes if your editor crashes 
 
 
