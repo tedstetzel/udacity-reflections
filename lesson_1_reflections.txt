@@ -1,0 +1,44 @@
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I only have to look at the lines that are flagged as being changed. Otherwise I would have to compare every line one by one. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can see when and by who changes where introduced. This can help with determining how long something has been a certian way. 
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros of commit: 
+- Easy to communicate to other developers who might work on the same code when changes are made
+- Allows you to package changes in a way where they can be used to facilitate a code review or map to a ticket
+- You only want to commit code that has been tested
+
+Cons
+- You could lose changes if your editor crashes 
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+GIT assumes that the all files in a single check-in are related 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Get more comfortable 
+
+
+How might using version control make you more confident to make changes that could break something?
+
+If you can quickly roll back to a previous version you can easily undo changes that have broken your application. 
+
+
+
+cd ~ takes you to your home directory 
+subl is the same as touch, but saves time since it opens your new file right in subl 
+mkdir - makes a new directory 
+you need to cd into a directory to make a new directory 
+
+diff -u is the diff tool in termi
