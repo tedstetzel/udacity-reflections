@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+In order to share with other developers
+In case you lose your laptop or it stops working
